@@ -1,0 +1,7 @@
+'''
+Autor 
+Fecha 11 septiempre 2023
+Descripcion: Empezando a programar
+'''
+nombre=input("Ingresa tu nombre:")
+print('Hola ', nombre)
