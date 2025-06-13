@@ -1,4 +1,4 @@
-# README - Automatización de Infraestructura Digital  
+# Automatización de Infraestructura Digital  
 ## Unidad I – Entornos de desarrollo en la automatización de redes  
 
 ---
