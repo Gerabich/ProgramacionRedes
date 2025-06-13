@@ -9,7 +9,7 @@
 **Carrera:** Ingeniería en Redes Inteligentes y Ciberseguridad  
 **Grupo:** GIRI9051  
 **Unidad 1:** Entornos de desarrollo en
-la automatización de redes
+la automatización de redes  
 **Nombre:** Gerardo Antonio García Vázquez   
 **Núm. Control:** 1222100818  
 **Fecha:** Miercoles, 11 de Junio    
