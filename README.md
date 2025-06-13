@@ -201,19 +201,6 @@ Verificación: Acceder a `http://localhost:8080` para ver la página de Nginx.
 
 ---
 
-### Lista de verificación del entorno
-
-| Elemento                          | Completado |
-|----------------------------------|------------|
-| Instalación de Git               | ✅         |
-| Instalación de VSCode + Plugins  | ✅         |
-| Instalación de Docker            | ✅         |
-| Instalación de Docker Compose    | ✅         |
-| Instalación de Swagger Editor    | ✅         |
-| Prueba con Hello World           | ✅         |
-| Prueba con archivo YAML          | ✅         |
-
----
 
 ### Recursos utilizados de la comunidad
 
